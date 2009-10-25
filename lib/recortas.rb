@@ -19,7 +19,6 @@ class Recortas
   end
   
   def self.encode(uri)
-    uri = "http://" + url unless uri =~ /^http:\/\//i
     
     xml_data = Net::HTTP.get_response(URI.parse("http://www.soitu.es/cortas/encode.pl?r=xml&u=#{uri}")).body
     xml_doc = REXML::Document.new(xml_data)
