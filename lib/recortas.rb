@@ -1,3 +1,5 @@
+# re.cort.as A ruby wrapper for the cort.as service
+#
 # Copyright (c) 2009, Alejandro Fernández Gómez
 # All rights reserved.
 # 
