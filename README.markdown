@@ -1,10 +1,8 @@
-re.cort.as A ruby wrapper for the [cort.as](http://cort.as) service
-===================================================================
+# re.cort.as A ruby wrapper for the [cort.as](http://cort.as) service
 
 re.cort.as is a basic ruby wrapper for the [soitu.es](http://soitu.es/) [cort.as](http://cort.as/) service. Currently only have two methods: one for decoding and one for encoding an URI
 
-Usage
------
+## Usage
 
 **Encoding an URI**
 

@@ -30,6 +30,8 @@ require 'rexml/document'
 
 class URIError < ArgumentError; end
 
+
+
 class Recortas
   
   def self.decode(uri)
