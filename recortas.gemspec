@@ -18,7 +18,9 @@ Gem::Specification.new do |s|
   s.files = [
     ".gitignore",
      "README.markdown",
-     "lib/recortas.rb"
+     "Rakefile",
+     "lib/recortas.rb",
+     "recortas.gemspec"
   ]
   s.homepage = %q{http://github.com/afgomez/recortas}
   s.rdoc_options = ["--charset=UTF-8"]
