@@ -4,6 +4,12 @@ recortas is a basic ruby wrapper for the [soitu.es](http://soitu.es/) [cort.as](
 
 Currently only have two methods: one for decoding and one for encoding an URI. Support for statistics is planned
 
+## Installing
+
+Just open a terminal and write
+
+    sudo gem install recortas
+
 ## Usage
 
 To use recortas you only have to require it in your script
